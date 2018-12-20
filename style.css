@@ -21,48 +21,37 @@
 
 .border {
 margin: 0rem;
-  border-right: 1rem solid #ff6f61;
-  padding-right: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  border-right: 1vw solid #ff6f61;
+  padding-right: 1vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
   position: absolute;
-  top: 14.45rem;
-  left: 47rem;
+  top: 11.5vw;
+  right: 50.5vw;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 2.5vw;
   margin: 0rem;
-  line-height: 2.5rem;
+  line-height: 2.2vw;
 }
 
 img {
   max-width: 300px;
   position: absolute;
-  top: 3rem;
-  left: 65rem;
+  top: 3vw;
+  right: 30vw;
 }
 
 p {
   font-size: 1.5rem;
   position: absolute;
-  margin: 0rem;
-  top: 22rem;
-  left: 39rem;
-  line-height: 1.4rem;
+  margin: 0vw;
+  top: 18vw;
+  right: 47.5vw;
+  line-height: 1.3vw;
 }
 
-/* a {
-  color: black;
-  background-color: coral;
-  font-weight: bold;
-  font-size: 2rem;
-  position: absolute;
-  margin: 0rem;
-  top: 30rem;
-  left: 58rem;
-  
-} */
 a:link, a:visited {
   background-color: #ff6f61;
   color: white;
@@ -70,11 +59,11 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 1rem;
+  font-size: 1vw;
   position: absolute;
   margin: 0rem;
-  top: 30rem;
-  left: 57rem;
+  top: 25vw;
+  right: 47.5vw;
 }
 
 a:hover, a:active {
