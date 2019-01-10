@@ -1,58 +1,53 @@
-.all {
-    direction: rtl;
-    /* position: absolute;
-    top: 0vf;
-    left: 45rem;
-    right: 100vf;
-    bottom: 1vf; */
-    font-family: 'Heebo', sans-serif;
+body {
+margin: 0;
+font-family: 'Heebo', sans-serif;
+direction: rtl;
 }
 
- h1 {
-  font-size: 20rem;
-  margin: 0rem;
-  font-weight: bold;
-  position: absolute;
-  top: 0vf;
-  left: 55rem;
-  right: 0vf;
-  bottom: 1vf;
+h1 {
+font-size: 20rem;
+margin: 0rem;
+font-weight: bold;
+position: absolute;
+top: 8vw;
+right: 37vw;
+line-height: 260px;
 }
 
 .border {
 margin: 0rem;
-  border-right: 1vw solid #ff6f61;
-  padding-right: 1vw;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
-  position: absolute;
-  top: 11.5vw;
-  right: 50.5vw;
+border-right: 1vw solid #ff6f61;
+padding-right: 1vw;
+padding-top: 1vw;
+padding-bottom: 1vw;
+position: absolute;
+top: 8vw;
+right: 50vw;
 }
 
 h2 {
-  font-size: 2.5vw;
-  margin: 0rem;
-  line-height: 2.2vw;
+font-size: 2.5vw;
+margin: 0rem;
+line-height: 2.2vw;
 }
 
 img {
-  max-width: 300px;
-  position: absolute;
-  top: 3vw;
-  right: 30vw;
+max-width: 300px;
+position: absolute;
+top: 25vw;
+right: 40vw;
 }
 
 p {
-  font-size: 1.5rem;
-  position: absolute;
-  margin: 0vw;
-  top: 18vw;
-  right: 47.5vw;
-  line-height: 1.3vw;
+font-size: 1.1rem;
+position: absolute;
+margin: 0vw;
+top: 15vw;
+right: 50vw;
+line-height: 1.3vw;
 }
 
-a:link, a:visited {
+.next a:link, a:visited {
   background-color: #ff6f61;
   color: white;
   padding: 15px 20px;
@@ -62,10 +57,31 @@ a:link, a:visited {
   font-size: 1vw;
   position: absolute;
   margin: 0rem;
+  top: 19.6vw;
+  right: 50vw;
+}
+
+.next a:hover, a:active {
+  background-color: black;
+}
+
+.logolink a:link, a:visited {
+  background-color: #ff6f61;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+display: block;
+  margin: 0rem;
   top: 25vw;
   right: 47.5vw;
 }
 
-a:hover, a:active {
-  background-color: black;
+
+.logo {
+  color: aliceblue;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: block;
 }
