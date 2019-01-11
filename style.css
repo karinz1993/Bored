@@ -32,7 +32,7 @@ line-height: 2.2vw;
 }
 
 img {
-max-width: 300px;
+max-width: 400px;
 position: absolute;
 top: 25vw;
 right: 40vw;
@@ -80,7 +80,7 @@ display: block;
 
 
 .logo {
-  color: aliceblue;
+  color: white;
   font-size: 1.5rem;
   font-weight: bold;
   display: block;
