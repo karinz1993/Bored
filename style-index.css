@@ -16,14 +16,14 @@ letter-spacing: -10px;
 }
 
 h2 {
-    font-size: 1.9rem;
-    margin: 0rem;
-    font-weight: 400;
-    position: absolute;
-    top: 26vw;
-    right: 29.9vw; 
-    color: #ff6f61;
-    }
+font-size: 1.9rem;
+margin: 0rem;
+font-weight: 400;
+position: absolute;
+top: 26vw;
+right: 29.9vw; 
+color: #ff6f61;
+}
 
 .menu a:hover, a:active {
 background-color: #ff6f61;
@@ -35,6 +35,7 @@ text-decoration: none;
 color: black;
 padding: 5px 10px;
 font-weight: bold;
+text-align: center;
 }
 
 .n1 {
@@ -116,3 +117,245 @@ top: 38vw;
 right: 70vw;
 }
 
+.n12 {
+letter-spacing: -5px;
+position: absolute;
+font-size: 2.5rem;
+top: 2vw;
+right: 65vw;
+}
+
+.n13 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1rem;
+top: 18vw;
+right: 15vw;
+}
+
+.n14 {
+letter-spacing: -2px;
+position: absolute;
+font-size: 2rem;
+top: 40vw;
+right: 14vw;
+}
+
+.n15 {
+letter-spacing: -3.5px;
+position: absolute;
+font-size: 3rem;
+top: 35vw;
+right: 30vw;
+}
+
+.n16 {
+letter-spacing: -1.5px;
+position: absolute;
+font-size: 1.5rem;
+top: 5vw;
+right: 30vw;
+}
+
+.n17 {
+letter-spacing: -9px;
+position: absolute;
+font-size: 5rem;
+top: 26vw;
+right: 13vw;
+}
+
+.n18 {
+letter-spacing: -3px;
+position: absolute;
+font-size: 3rem;
+top: 24vw;
+right: 70vw;
+}
+
+.n19 {
+letter-spacing: -3px;
+position: absolute;
+font-size: 3rem;
+top: 5vw;
+right: 5vw;
+}
+
+.n20 {
+letter-spacing: -5px;
+position: absolute;
+font-size: 5rem;
+top: 3vw;
+right: 40vw;
+}
+
+.n21 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1rem;
+top: 32vw;
+right: 40vw;
+}
+
+.n22 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2rem;
+top: 17vw;
+right: 5vw;
+}
+
+.n23 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2.5rem;
+top: 13vw;
+right: 33vw;
+}
+
+.n24 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2.9rem;
+top: 33vw;
+right: 5vw;
+}
+
+.n25 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1.5rem;
+top: 41vw;
+right: 35vw;
+}
+
+.n26 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2.2rem;
+top: 13vw;
+right: 63vw;
+}
+
+.n27 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1.8rem;
+top: 18vw;
+right: 20vw;
+}
+
+.n28 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1.1rem;
+top: 33vw;
+right: 68vw;
+}
+
+.n29 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 3rem;
+top: 1.5vw;
+right: 53vw;
+}
+
+.n30 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2.2rem;
+top: 35vw;
+right: 20vw;
+}
+
+.n31 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 5.5rem;
+top: 1.3vw;
+right: 11vw;
+}
+
+.n32 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 5.5rem;
+top: 40vw;
+right: 23vw;
+}
+
+.n33 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 4.3rem;
+top: 33vw;
+right: 47vw;
+}
+
+.n34 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1rem;
+top: 41vw;
+right: 5vw;
+}
+
+.n35 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1.5rem;
+top: 4vw;
+right: 75vw;
+}
+
+.n36 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 1.7rem;
+top: 13vw;
+right: 45vw;
+}
+
+.n35 {
+letter-spacing: -1px;
+position: absolute;
+font-size: 2rem;
+top: 38vw;
+right: 60vw;
+}
+
+.n36 {
+position: absolute;
+font-size: 3rem;
+top: 25vw;
+right: 21vw;
+}
+
+.n37 {
+position: absolute;
+font-size: 4rem;
+top: 16vw;
+right: 71vw;
+}
+
+.n38 {
+position: absolute;
+font-size: 1rem;
+top: 15vw;
+right: 45vw;
+}
+
+.n39 {
+position: absolute;
+font-size: 1.2rem;
+top: 21vw;
+right: 63vw;
+}
+
+.n40 {
+position: absolute;
+font-size: 1.6rem;
+top: 3vw;
+right: 76vw;
+}
