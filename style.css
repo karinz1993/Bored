@@ -1,16 +1,16 @@
 body {
 margin: 0;
-font-family: 'Heebo', sans-serif;
+font-family: 'Rubik', sans-serif;
 direction: rtl;
 }
 
 h1 {
 font-size: 20rem;
 margin: 0rem;
-font-weight: bold;
+font-weight: 500;
 position: absolute;
 top: 8vw;
-right: 37vw;
+right: 32vw;
 line-height: 260px;
 }
 
@@ -32,9 +32,9 @@ line-height: 2.2vw;
 }
 
 img {
-max-width: 400px;
+max-width: 300px;
 position: absolute;
-top: 25vw;
+top: 53vh;
 right: 40vw;
 }
 
@@ -57,7 +57,7 @@ line-height: 1.3vw;
   font-size: 1vw;
   position: absolute;
   margin: 0rem;
-  top: 19.6vw;
+  top: 44vh;
   right: 50vw;
 }
 
