@@ -1,0 +1,87 @@
+body {
+margin: 0;
+font-family: 'Rubik', sans-serif;
+direction: rtl;
+}
+
+h1 {
+font-size: 20rem;
+margin: 0rem;
+font-weight: 500;
+position: absolute;
+top: 8vw;
+right: 30vw;
+line-height: 260px;
+}
+
+.border {
+margin: 0rem;
+border-right: 1vw solid #ff6f61;
+padding-right: 1vw;
+padding-top: 1vw;
+padding-bottom: 1vw;
+position: absolute;
+top: 8vw;
+right: 50vw;
+}
+
+h2 {
+font-size: 2.5vw;
+margin: 0rem;
+line-height: 2.2vw;
+}
+
+img {
+max-width: 300px;
+position: absolute;
+top: 53vh;
+right: 40vw;
+}
+
+p {
+font-size: 1.1rem;
+position: absolute;
+margin: 0vw;
+top: 15vw;
+right: 50vw;
+line-height: 1.3vw;
+}
+
+.next a:link, a:visited {
+  background-color: #ff6f61;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1vw;
+  position: absolute;
+  margin: 0rem;
+  top: 44vh;
+  right: 50vw;
+}
+
+.next a:hover, a:active {
+  background-color: black;
+}
+
+.logolink a:link, a:visited {
+  background-color: #ff6f61;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+display: block;
+  margin: 0rem;
+  top: 25vw;
+  right: 47.5vw;
+}
+
+
+.logo {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: block;
+}
