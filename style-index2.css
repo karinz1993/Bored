@@ -26,10 +26,14 @@ text-align: center;
 }
 
 .logo a:hover, a:active {
-    background-color: white;
-    color: #ff6f61
+    background-color: none;
+    color: black;
     }
 
+    .menu a:hover, a:active {
+        background-color: none;
+        color: #ff6f61;
+        }
 
 h2 {
 font-size: 1.9rem;
@@ -43,259 +47,247 @@ width: 100%;
 text-align: center;
 }
 
-.menu a:hover, a:active {
-background-color: #ff6f61;
-color: white;
-}
 
 .menu a {
 text-decoration: none;
 color: black;
 padding: 5px 10px;
-font-weight: medium;
+font-weight: 500;
 text-align: center;
 }
 
 .menu {
-font-size: 2rem;
+font-size: 1rem;
 }
 
 .n1 {
 position: absolute;
 top: 3vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n2 {
 position: absolute;
 top: 13vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n3 {
 position: absolute;
 top: 23vh;
-right: 10vw;
+right: 2vw;
  }
 
  .n4 {
 position: absolute;
 top: 33vh;
-right: 10vw;
+right: 2vw;
  }
 
 .n5 {
 position: absolute;
 top: 43vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n6 {
 position: absolute;
 top: 53vh;
-right: 10vw;
+right: 2vw;
  }
 
  .n7 {
 position: absolute;
 top: 63vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n8 {
 position: absolute;
 top: 73vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n9 {
 position: absolute;
 top: 83vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n10 {
 position: absolute;
 top: 93vh;
-right: 10vw;
+right: 2vw;
 }
 
 .n11 {
 position: absolute;
 top: 3vh;
-right: 25vw;
+right: 9vw;
 }
 
 .n12 {
 position: absolute;
 top: 13vh;
-right: 25vw;
+right: 9vw;
 }
 
 .n13 {
 position: absolute;
 top: 23vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n14 {
 position: absolute;
 top: 33vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n15 {
 position: absolute;
 top: 43vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n16 {
 position: absolute;
 top: 53vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n17 {
 position: absolute;
 top: 63vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n18 {
 position: absolute;
 top: 73vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n19 {
 position: absolute;
 top: 83vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n20 {
 position: absolute;
 top: 93vh;
-right: 25vw;
-}
+right: 9vw;}
 
 .n21 {
 position: absolute;
 top: 3vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n22 {
 position: absolute;
 top: 13vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n23 {
 position: absolute;
 top: 23vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n24 {
 position: absolute;
 top: 33vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n25 {
 position: absolute;
 top: 43vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n26 {
 position: absolute;
 top: 53vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n27 {
 position: absolute;
 top: 63vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n28 {
 position: absolute;
 top: 73vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n29 {
 position: absolute;
 top: 83vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n30 {
 position: absolute;
 top: 93vh;
-left: 25vw;
+right: 17vw;
 }
 
 .n31 {
 position: absolute;
 top: 3vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n32 {
 position: absolute;
 top: 13vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n33 {
 position: absolute;
 top: 23vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n34 {
 position: absolute;
 top: 33vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n35 {
 position: absolute;
 top: 43vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n36 {
 position: absolute;
 top: 53vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n37 {
 position: absolute;
 top: 63vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n38 {
 position: absolute;
 top: 73vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n39 {
 position: absolute;
 top: 83vh;
-left: 10vw;
+right: 25vw;
 }
 
 .n40 {
 position: absolute;
 top: 93vh;
-left: 10vw;
+right: 25vw;
 }

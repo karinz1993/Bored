@@ -18,9 +18,14 @@ text-align: center;
 }
 
 .logo a:hover, a:active {
-    background-color: white;
-    color: #ff6f61
+    background-color: none;
+    color: black;
     }
+
+    .menu a:hover, a:active {
+        background-color: none;
+        color: #ff6f61;
+        }
 
 .logo a {
 text-decoration: none;
@@ -42,260 +47,323 @@ width: 100%;
 text-align: center;
 }
 
-.menu a:hover, a:active {
-background-color: #ff6f61;
-color: white;
-}
 
 .menu a {
 text-decoration: none;
 color: black;
 padding: 5px 10px;
-font-weight: medium;
+font-weight: 500;
 text-align: center;
-}
-
-.menu {
 font-size: 1.5rem;
-font-weight: bold;
 }
 
+
+    .m1 {
+    position: absolute;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #ff6f61;
+    font-weight: 400;
+    font-size: 1.9rem;
+top: 11vh;
+left: 9vw;
+    }
+    
+    .m2 {
+position: absolute;
+color: #ff6f61;
+font-weight: 400;
+font-size: 1.9rem;
+bottom: 10vh;
+left: 10vw;
+ }
+
+.m3 {
+position: absolute;
+color: #ff6f61;
+font-weight: 400;
+font-size: 1.9rem;
+top: 10vh;
+right: 10vw;
+}   
+            
 .n1 {
 position: absolute;
-top: 3vh;
-right: 5vw;
-}
-
-.n2 {
-position: absolute;
-top: 13vh;
-right: 5vw;
-}
-
-.n3 {
-position: absolute;
-top: 23vh;
-right: 5vw;
- }
-
- .n4 {
-position: absolute;
-top: 33vh;
-right: 5vw;
- }
-
-.n5 {
-position: absolute;
-top: 43vh;
-right: 5vw;
-}
-
-.n6 {
-position: absolute;
-top: 53vh;
-right: 5vw;
- }
-
- .n7 {
-position: absolute;
-top: 63vh;
-right: 5vw;
-}
-
-.n8 {
-position: absolute;
-top: 73vh;
-right: 5vw;
-}
-
-.n9 {
-position: absolute;
-top: 83vh;
-right: 5vw;
-}
-
-.n10 {
-position: absolute;
-top: 93vh;
-right: 5vw;
-}
-
-.n11 {
-position: absolute;
-top: 93vh;
-right: 10vw;
-}
-
-.n12 {
-position: absolute;
-top: 93vh;
-right: 15vw;
-}
-
-.n13 {
-position: absolute;
-top: 93vh;
-right: 20vw;
-}
-
-.n14 {
-position: absolute;
-top: 93vh;
-right: 25vw;
-}
-
-.n15 {
-position: absolute;
-top: 93vh;
+    font-size: 3rem;
+bottom: 19vh;
+left: 11vw;
+    }
+    
+    .n2 {
+    position: absolute;
+    font-size: 4rem;
+    top: 0vh;
+    left: 9vw;
+    }
+    
+    .n3 {
+    position: absolute;
+    font-size: 2rem;
+    top: 11vh;
+    left: 3vw;
+     }
+    
+     .n4 {
+    position: absolute;
+    font-size: 6rem;
+    bottom: 3vh;
+    left: 15vw;
+     }
+    
+    .n5 {
+    position: absolute;
+    font-size: 2.5rem;
+    top: 32vh;
+right: 23vw;
+    }
+    
+    .n6 {
+     position: absolute;
+    font-size: 5.5rem;
+    top: 14vh;
 right: 30vw;
-}
-
-.n16 {
-position: absolute;
-top: 93vh;
-right: 35vw;
-}
-
-.n17 {
-position: absolute;
-top: 93vh;
-right: 40vw;
-}
-
-.n18 {
-position: absolute;
-top: 93vh;
-right: 45vw;
-}
-
-.n19 {
-position: absolute;
-top: 93vh;
-right: 50vw;
-}
-
-.n20 {
-position: absolute;
-top: 93vh;
-right: 55vw;
-}
-
-.n21 {
-position: absolute;
-top: 3vh;
-left: 60vw;
-}
-
-.n22 {
-position: absolute;
-top: 3vh;
-left: 55vw;
-}
-
-.n23 {
-position: absolute;
-top: 3vh;
-left: 50vw;
-}
-
-.n24 {
-position: absolute;
-top: 3vh;
-left: 45vw;
-}
-
-.n25 {
-position: absolute;
-top: 3vh;
-left: 40vw;
-}
-
-.n26 {
-position: absolute;
-top: 3vh;
-left: 35vw;
-}
-
-.n27 {
-position: absolute;
-top: 3vh;
-left: 30vw;
-}
-
-.n28 {
-position: absolute;
-top: 3vh;
-left: 25vw;
-}
-
-.n29 {
-position: absolute;
-top: 3vh;
-left: 20vw;
-}
-
-.n30 {
-position: absolute;
-top: 3vh;
-left: 15vw;
-}
-
-.n31 {
-position: absolute;
-top: 3vh;
-left: 10vw;
-}
-
-.n32 {
-position: absolute;
-top: 13vh;
-left: 10vw;
-}
-
-.n33 {
-position: absolute;
-top: 23vh;
-left: 10vw;
-}
-
-.n34 {
-position: absolute;
-top: 33vh;
-left: 10vw;
-}
-
-.n35 {
-position: absolute;
-top: 43vh;
-left: 10vw;
-}
-
-.n36 {
-position: absolute;
-top: 53vh;
-left: 10vw;
-}
-
-.n37 {
-position: absolute;
-top: 63vh;
-left: 10vw;
-}
-
-.n38 {
-position: absolute;
-top: 73vh;
-left: 10vw;
-}
-
-.n39 {
-position: absolute;
-top: 83vh;
-left: 10vw;
-}
-
-.n40 {
-position: absolute;
-top: 93vh;
-left: 10vw;
-}
+     }
+    
+     .n7 {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 3vh;
+    right: 7vw;
+    }
+    
+    .n8 {
+    position: absolute;
+    font-size: 3.5rem;
+    top: 18vh;
+    left: 13vw;
+    }
+    
+    .n9 {
+    position: absolute;
+    font-size: 1rem;
+    top: 20vh;
+   right: 4vw;
+    }
+    
+    .n10 {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 5vh;
+    right: 20vw;
+    }
+    
+    .n11 {
+    position: absolute;
+    font-size: 5.5rem;
+    top: 20vh;
+    right: 9vw;
+    }
+    
+    .n12 {
+    position: absolute;
+    font-size: 2.5rem;
+    top: 1vh;
+    right: 25vw;
+    }
+    
+    .n13 {
+    position: absolute;
+    font-size: 1rem;
+top: 9vh;
+right: 34vw;
+    }
+    
+    .n14 {
+    position: absolute;
+    font-size: 2rem;
+    top: 30vh;
+    right: 16vw;
+    }
+    
+    .n15 {
+    position: absolute;
+    font-size: 3rem;
+    top: 15vh;
+    right: 19vw;
+    }
+    
+    .n16 {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 12vh;
+    right: 29vw;
+    }
+    
+    .n17 {
+    position: absolute;
+    font-size: 5rem;
+    top: 13vh;
+    right: 13vw;
+    }
+    
+    .n18 {
+    position: absolute;
+    font-size: 3rem;
+    top: 10vh;
+    right: 2vw;
+    }
+    
+    .n19 {
+    position: absolute;
+    font-size: 3rem;
+    top: 1vh;
+right:13vw;
+    }
+    
+    .n20 {
+    position: absolute;
+    font-size: 5rem;
+    top: 15vh;
+    left: 6vw;
+    }
+    
+    .n21 {
+    position: absolute;
+    font-size: 1rem;
+    bottom: 5vh;
+    left: 5vw;
+    }
+    
+    .n22 {
+    position: absolute;
+    font-size: 2rem;
+    top: 26vh;
+    right: 21vw;
+    }
+    
+    .n23 {
+    position: absolute;
+    font-size: 2.5rem;
+    bottom: 15vh;
+    left: 15vw;
+    }
+    
+    .n24 {
+    position: absolute;
+    font-size: 2.9rem;
+    bottom: 21vh;
+    left: 6vw;
+    }
+    
+    .n25 {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 2vh;
+    right: 30vw;
+    }
+    
+    .n26 {
+    position: absolute;
+    font-size: 2.2rem;
+    top: 28vh;
+    right: 2vw;
+    }
+    
+    .n27 {
+    position: absolute;
+    font-size: 1.8rem;
+    top: 19vh;
+    right: 25vw;
+    }
+    
+    .n28 {
+    position: absolute;
+    font-size: 1.1rem;
+    top: 39vh;
+    right: 11vw;
+    }
+    
+    .n29 {
+    position: absolute;
+    font-size: 3rem;
+    top: 42vh;
+    right: 1.5vw;
+    }
+    
+    .n30 {
+    position: absolute;
+    font-size: 2.2rem;
+    bottom: 13vh;
+    left: 4vw;
+    }
+    
+    .n31 {
+    position: absolute;
+    font-size: 5.5rem;
+    top: 10vh;
+    right: 8vw;
+    }
+    
+    .n32 {
+    position: absolute;
+    font-size: 4rem;
+    top: 0.5vh;
+    right: 1vw;
+    }
+    
+    .n33 {
+    position: absolute;
+    font-size: 4.3rem;
+    top: 34vh;
+    right: 17vw;
+    }
+    
+    .n34 {
+    position: absolute;
+    font-size: 1rem;
+    top: 38vh;
+    right: 5vw;
+    }
+    
+    .n35 {
+    position: absolute;
+    font-size: 1.5rem;
+    top: 48vh;
+    right: 8vw;
+    }
+    
+    
+    .n36 {
+    position: absolute;
+    font-size: 3rem;
+    bottom: 1vh;
+    left: 10vw;
+    }
+    
+    .n37 {
+    position: absolute;
+    font-size: 4rem;
+    top: 5vh;
+   right: 17vw;
+    }
+    
+    .n38 {
+    position: absolute;
+    font-size: 1rem;
+    top: 11vh;
+    right: 23.5vw;
+    }
+    
+    .n39 {
+    position: absolute;
+    font-size: 1.2rem;
+    top: 9vh;
+    left: 15vw;
+    }
+    
+    .n40 {
+    position: absolute;
+    font-size: 1.6rem;
+    top: 46vh;
+right: 14vw;
+    }
